@@ -164,7 +164,7 @@ class dropout:
         - r: the dropout rate
 
         It has no parameters to learn.
-        self.mask is an attribute of dropout. You can use it to store things (computed in the forward pass) for the use in the backward pass.
+        self.mask is an attribute of dropout. 
     """
 
     def __init__(self, r):
