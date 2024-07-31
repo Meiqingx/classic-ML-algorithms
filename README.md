@@ -2,6 +2,6 @@
 
 ## Overview
 Some classic ML/AI algorithms implementation. 
-- HMM
+- Hidden Markov model (HMM)
 - Genetic algorithm
 - Neural network
