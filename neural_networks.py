@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 ###################################
-# Neural network structure: input --> linear --> relu --> dropout --> linear --> softmax_cross_entropy loss
+# Neural network structure: 
+# input -> linear -> relu -> dropout -> linear -> softmax_cross_entropy loss
 # Credits to Machine Learning teaching staff in 2019 for the architecture design
 ###################################
 
